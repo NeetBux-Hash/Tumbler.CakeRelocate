@@ -1,4 +1,4 @@
-# Move Cake
+# ReloCake
 
 A truly amazing cake moving mod
 
@@ -6,4 +6,4 @@ A truly amazing cake moving mod
 
 ---
 
-`Tumbler.CakeTopper` v0.2.0, by Tumbler. This README was automatically generated from the mod's manifest.
+`Tumbler.CakeTopper` v0.3.0, by Tumbler. This README was automatically generated from the mod's manifest.
