@@ -2,11 +2,27 @@
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.2.0",
 	"id": "Tumbler.CakeTopper",
-	"name": "Remove Cake",
-	"description": "A truly amazing cake removing mod",
+	"name": "ReloCake",
+	"description": "A truly amazing cake moving mod",
 	"authors": ["Tumbler"],
-	"frameworkVersion": "2.33.20",
-	"contentFolders": ["Options/delete"],
-	"options": [],
-	"updateCheck": "https://github.com/NeetBux-Hash/Tumbler.CakeRelocate/releases/latest/download/updates.json"
+	"frameworkVersion": "2.25.1",
+	"contentFolders": [],
+	"options": [
+		{
+			"group": "The Cake at Hand",
+			"name": "Remove the Cake",
+			"type": "select",
+			"tooltip": "Deletes every trace of its existence",
+			"contentFolders": ["Options/delete"]
+		},
+		{
+			"group": "The Cake at Hand",
+			"name": "ReloCake it",
+			"type": "select",
+			"tooltip": "Moves the cake slightly to the side instead",
+			"enabledByDefault": true,
+			"contentFolders": ["Options/move"]
+		}
+	]
+
 }
