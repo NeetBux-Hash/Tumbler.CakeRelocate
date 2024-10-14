@@ -12,6 +12,7 @@
 			"name": "Remove the Cake",
 			"type": "checkbox",
 			"tooltip": "Deletes every trace of  its existence",
+			"enabledByDefault": true,
 			"contentFolders": ["Options/delete"]
 		}
 	]

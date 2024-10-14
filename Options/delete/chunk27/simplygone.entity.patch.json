@@ -6,51 +6,7 @@
 		{ "RemoveEntityByID": "0be913e070ce7f60" },
 		{ "RemoveEntityByID": "4c774d7a95cb1e20" },
 		{
-			"SubEntityOperation": [
-				"f40692b46952cb09",
-				{
-					"SetPropertyValue": {
-						"property_name": "m_mTransform",
-						"value": {
-							"rotation": {
-								"x": -0.0,
-								"y": 0.0,
-								"z": -178.0367769985166
-							},
-							"position": {
-								"x": -0.40042099356651306,
-								"y": 2.863250970840454,
-								"z": -1.2507309913635254
-							}
-						}
-					}
-				}
-			]
-		},
-		{
 			"SubEntityOperation": ["1ba23ce79aa8c17d", { "RemoveAllEventConnectionsForEvent": "OnValue" }]
-		},
-		{
-			"SubEntityOperation": [
-				"3f23e81b3c91c8fc",
-				{
-					"SetPropertyValue": {
-						"property_name": "m_mTransform",
-						"value": {
-							"rotation": {
-								"x": -0.0,
-								"y": 0.0,
-								"z": -178.0367769985166
-							},
-							"position": {
-								"x": -6.640900135040283,
-								"y": 1.857638955116272,
-								"z": -1.2507309913635254
-							}
-						}
-					}
-				}
-			]
 		},
 		{
 			"SubEntityOperation": [
