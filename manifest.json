@@ -9,10 +9,18 @@
 	"contentFolders": [],
 	"options": [
 		{
+			"group": "The Cake at Hand",
 			"name": "Remove the Cake",
-			"type": "checkbox",
+			"type": "select",
 			"tooltip": "Deletes every trace of  its existence",
 			"contentFolders": ["Options/delete"]
+		},
+		{
+			"group": "The Cake at Hand",
+			"name": "Cake Relocation",
+			"type": "select",
+			"tooltip": "Moves the cake somewhere else",
+			"contentFolders": ["Options/move"]
 		}
 	]
 }
