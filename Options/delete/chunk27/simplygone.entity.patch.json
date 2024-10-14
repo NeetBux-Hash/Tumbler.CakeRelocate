@@ -1,0 +1,115 @@
+{
+	"tempHash": "00B6CEDD6778F19C",
+	"tbluHash": "00AE87315CD24E96",
+	"patch": [
+		{ "RemoveEntityByID": "986ae87d9bdadec9" },
+		{ "RemoveEntityByID": "0be913e070ce7f60" },
+		{ "RemoveEntityByID": "4c774d7a95cb1e20" },
+		{
+			"SubEntityOperation": [
+				"f40692b46952cb09",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": -178.0367769985166
+							},
+							"position": {
+								"x": -0.40042099356651306,
+								"y": 2.863250970840454,
+								"z": -1.2507309913635254
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": ["1ba23ce79aa8c17d", { "RemoveAllEventConnectionsForEvent": "OnValue" }]
+		},
+		{
+			"SubEntityOperation": [
+				"3f23e81b3c91c8fc",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": -178.0367769985166
+							},
+							"position": {
+								"x": -6.640900135040283,
+								"y": 1.857638955116272,
+								"z": -1.2507309913635254
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"767ff1e7fddaaf00",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": -91.28794613983284
+							},
+							"position": {
+								"x": 16.547910690307617,
+								"y": -4.1568169593811035,
+								"z": 0.9749240279197692
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"7af959c0f77e226e",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": -88.70368690854451
+							},
+							"position": {
+								"x": -2.2429656982421875,
+								"y": -6.799444198608398,
+								"z": -1.2507309913635254
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddComment": {
+				"parent": "4c774d7a95cb1e20",
+				"name": "Notes",
+				"text": "This removes the whole cake entity"
+			}
+		},
+		{
+			"AddComment": {
+				"parent": "fffffffffffffffe",
+				"name": "Notes",
+				"text": "This removes the whole cake entity"
+			}
+		}
+	],
+	"patchVersion": 6
+}
