@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"id": "Tumbler.CakeTopper",
 	"name": "Re/Move Cake",
-	"description": "A truly amazing cake moving mod",
+	"description": "A truly amazing cake re/moving mod",
 	"authors": ["Tumbler"],
 	"frameworkVersion": "2.25.1",
 	"contentFolders": [],
@@ -12,7 +12,7 @@
 			"group": "The Cake at Hand",
 			"name": "Remove the Cake",
 			"type": "select",
-			"tooltip": "Deletes every trace of  its existence",
+			"tooltip": "Deletes every trace of its existence",
 			"contentFolders": ["Options/delete"]
 		},
 		{

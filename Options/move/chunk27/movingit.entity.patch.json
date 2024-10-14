@@ -3,15 +3,11 @@
 	"tbluHash": "00AE87315CD24E96",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"0be913e070ce7f60",
-				{
-					"SetPropertyValue": {
-						"property_name": "m_eidParent",
-						"value": "4c774d7a95cb1e20"
-					}
-				}
-			]
+			"AddComment": {
+				"parent": "4c774d7a95cb1e20",
+				"name": "Notes",
+				"text": "Somehow the other one is gone"
+			}
 		}
 	],
 	"patchVersion": 6
