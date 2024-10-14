@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
 	"id": "Tumbler.CakeTopper",
-	"name": "Move Cake",
+	"name": "Re/Move Cake",
 	"description": "A truly amazing cake moving mod",
 	"authors": ["Tumbler"],
 	"frameworkVersion": "2.25.1",
