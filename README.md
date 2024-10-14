@@ -6,4 +6,4 @@ A truly amazing cake moving mod
 
 ---
 
-`Tumbler.CakeTopper` v0.3.0, by Tumbler. This README was automatically generated from the mod's manifest.
+`Tumbler.CakeTopper` v0.4.0, by Tumbler. This README was automatically generated from the mod's manifest.
