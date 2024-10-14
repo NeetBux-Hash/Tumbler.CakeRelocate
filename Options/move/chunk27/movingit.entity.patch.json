@@ -2,11 +2,19 @@
 	"tempHash": "00B6CEDD6778F19C",
 	"tbluHash": "00AE87315CD24E96",
 	"patch": [
+		{ "RemoveEntityByID": "6c25c9bcb3c2621b" },
 		{
 			"AddComment": {
 				"parent": "4c774d7a95cb1e20",
 				"name": "Notes",
 				"text": "Somehow the other one is gone\nAdding pointer"
+			}
+		},
+		{
+			"AddComment": {
+				"parent": "6c25c9bcb3c2621b",
+				"name": "Notes",
+				"text": "We delete this. Just plates"
 			}
 		}
 	],
