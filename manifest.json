@@ -5,5 +5,15 @@
 	"name": "Move Cake",
 	"description": "A truly amazing cake moving mod",
 	"authors": ["Tumbler"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.25.1",
+	"contentFolders": [],
+	"options": [
+		{
+			"name": "Remove the Cake",
+			"type": "checkbox",
+			"tooltip": "Deletes every trace of  its existence",
+			"enabledByDefault": true,
+			"contentFolders": ["Options/delete"]
+		}
+	]
 }
