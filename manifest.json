@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"id": "Tumbler.CakeTopper",
 	"name": "ReloCake",
 	"description": "A truly amazing cake (re)moving mod",
@@ -31,7 +31,6 @@
 			"enabledByDefault": false,
 			"contentFolders": ["Options/test"]
 		}
-
 	],
 	"updateCheck": "https://github.com/NeetBux-Hash/Tumbler.CakeRelocate/releases/latest/download/updates.json"
 }
