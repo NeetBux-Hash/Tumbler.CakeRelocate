@@ -10,16 +10,16 @@
 	"options": [
 		{
 			"group": "The Cake at Hand",
-			"name": "Remove the Cake",
+			"name": "Tasteless, Traceless",
 			"type": "select",
-			"tooltip": "Deletes every trace of its existence",
+			"tooltip": "Deletes the cake as if it never existed",
 			"contentFolders": ["Options/delete"]
 		},
 		{
 			"group": "The Cake at Hand",
 			"name": "ReloCake it",
 			"type": "select",
-			"tooltip": "Moves the cake slightly to the side instead",
+			"tooltip": "Moves the cake substantially to the side instead",
 			"enabledByDefault": true,
 			"contentFolders": ["Options/move"]
 		},
