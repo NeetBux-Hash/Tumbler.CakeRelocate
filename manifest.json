@@ -25,9 +25,9 @@
 		},
 		{
 			"group": "The Cake at Hand",
-			"name": "Test",
+			"name": "test",
 			"type": "select",
-			"tooltip": "Moves the cake less noticeably to the side. Not sure if it's intel safe compatible. Feel free to confirm on nexus :)",
+			"tooltip": "Moves the cake less noticeably to the side. Not sure if intel safe compatible. Feel free to confirm",
 			"enabledByDefault": false,
 			"contentFolders": ["Options/test"]
 		}
