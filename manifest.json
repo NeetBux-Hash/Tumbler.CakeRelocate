@@ -27,7 +27,7 @@
 			"group": "The Cake at Hand",
 			"name": "A little Push",
 			"type": "select",
-			"tooltip": "Moves the cake less noticeably to the side.",
+			"tooltip": "Moves the cake less noticeably to the side. This is now integrated into Unofficial Community Patches.",
 			"enabledByDefault": false,
 			"contentFolders": ["Options/test"]
 		}
