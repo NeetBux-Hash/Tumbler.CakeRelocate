@@ -25,9 +25,9 @@
 		},
 		{
 			"group": "The Cake at Hand",
-			"name": "test",
+			"name": "A little Push",
 			"type": "select",
-			"tooltip": "Moves the cake less noticeably to the side. Not sure if intel safe compatible. Feel free to confirm",
+			"tooltip": "Moves the cake less noticeably to the side.",
 			"enabledByDefault": false,
 			"contentFolders": ["Options/test"]
 		}
